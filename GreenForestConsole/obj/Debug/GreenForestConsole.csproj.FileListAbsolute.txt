@@ -1,0 +1,6 @@
+G:\C#\Projects\GreenForestConsole\GreenForestConsole\bin\Debug\GreenForestConsole.exe.config
+G:\C#\Projects\GreenForestConsole\GreenForestConsole\bin\Debug\GreenForestConsole.exe
+G:\C#\Projects\GreenForestConsole\GreenForestConsole\bin\Debug\GreenForestConsole.pdb
+G:\C#\Projects\GreenForestConsole\GreenForestConsole\obj\Debug\GreenForestConsole.csprojResolveAssemblyReference.cache
+G:\C#\Projects\GreenForestConsole\GreenForestConsole\obj\Debug\GreenForestConsole.exe
+G:\C#\Projects\GreenForestConsole\GreenForestConsole\obj\Debug\GreenForestConsole.pdb
